@@ -1,5 +1,5 @@
 {
-  "name": "testcafe-cucumber",
+  "name": "TareaTestCafe",
   "version": "0.1.0",
   "description": "An integration of TestCafe and CucumberJS",
   "author": "Ryan Quellhorst <rquellh@gmail.com>",
